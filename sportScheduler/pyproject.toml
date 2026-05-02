@@ -1,0 +1,11 @@
+[project]
+name = "sportscheduler"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastf1>=3.8.3",
+    "ics>=0.7.3",
+    "pytz>=2026.1.post1",
+]
